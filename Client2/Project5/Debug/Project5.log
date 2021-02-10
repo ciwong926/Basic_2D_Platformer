@@ -1,0 +1,82 @@
+﻿  clientMain.cpp
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(65,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(76,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(126,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(256,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(256,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(389,35): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(589,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(590,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(620,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(627,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(639,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(876,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(964,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(965,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(965,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(971,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(971,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1029,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1029,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1089,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1089,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1410,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1508,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1508,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1582,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1582,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1583,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1583,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1731,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1732,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(2429,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(2873,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(3277,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1786): warning C4715: 'World::userJumpValid': not all control paths return a value
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(177): warning C4172: returning address of local variable or temporary: point
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(1370): warning C4715: 'Character::getJump': not all control paths return a value
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(491): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(616): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(624): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(628): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(635): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(640): warning C4172: returning address of local variable or temporary: ret
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\clientMain.cpp(643): warning C4172: returning address of local variable or temporary: ret
+  Project5.vcxproj -> C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\Debug\Project5.exe

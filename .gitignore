@@ -1,3 +1,5 @@
+.DS_Store
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,11 @@
 *.exe
 *.out
 *.app
+
+# VS Code
+*.opensdf
+*.sdf
+*.ipch
+*.obj
+*.pdb
+*.user

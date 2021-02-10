@@ -1,0 +1,110 @@
+﻿  duktape.c
+  ScriptManager.cpp
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+  serverMain.cpp
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(65,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(76,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(126,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(256,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(256,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(389,35): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(589,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(590,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(620,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(627,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(639,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(876,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(964,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(965,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(965,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(971,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(971,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1029,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1029,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1089,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1089,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1410,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1508,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1508,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1582,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1582,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1583,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1583,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1654,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1829,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(1830,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\serverMain.cpp(2553,22): warning C4553: '==': result of expression not used; did you intend '='?
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (__imp_??0CircleShape@sf@@QAE@MI@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Yellow" (__imp_?Yellow@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::setKeyRepeatEnabled(bool)" (__imp_?setKeyRepeatEnabled@Window@sf@@QAEX_N@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Transparent" (__imp_?Transparent@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QAEXM@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QAEXABVColor@2@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Cyan" (__imp_?Cyan@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Magenta" (__imp_?Magenta@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Blue" (__imp_?Blue@Color@sf@@2V12@B)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::RectangleShape & __thiscall sf::RectangleShape::operator=(class sf::RectangleShape const &)" (__imp_??4RectangleShape@sf@@QAEAAV01@ABV01@@Z)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ)
+serverMain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UAE@XZ)
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5Server\Release\Project5Server.exe : fatal error LNK1120: 32 unresolved externals

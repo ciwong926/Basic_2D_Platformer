@@ -1,0 +1,8 @@
+C:\Users\Cristina Wong\Desktop\Project5\Debug\Project5.exe
+C:\Users\Cristina Wong\Desktop\Project5\Debug\Project5.pdb
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5\Debug\Project5.exe
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Project5\Debug\Project5.pdb
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client1\Project5\Debug\Project5.exe
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client1\Project5\Debug\Project5.pdb
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\Debug\Project5.exe
+C:\Users\Cristina Wong\Desktop\Homework5\Part1\2DPlatformer\Client2\Project5\Debug\Project5.pdb
